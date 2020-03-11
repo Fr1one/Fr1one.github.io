@@ -1,0 +1,14 @@
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.audi{
+    text-align: center;
+    margin-top: 25%;
+}
+
