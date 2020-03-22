@@ -5,8 +5,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./zakat.jpg) no-repeat;
+    background-image: url(./zakat.jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .audi{
