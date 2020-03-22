@@ -1,10 +1,10 @@
 body{
+    background-color: black;
     height: 100%;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
     background-image: url(./zakat.jpg);
     background-size: 100%;
 }
